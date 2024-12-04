@@ -1,0 +1,44 @@
+[
+  {
+    "id": "47bf9361-dddf-4023-9c3b-3fa048f273b0",
+    "title": "Buy groceries",
+    "description": "Get milk, eggs, and bread",
+    "status": "pending"
+  },
+  {
+    "id": "61ddd83e-592c-4e0e-82e0-f72525cb8804",
+    "title": "Buy groceries",
+    "description": "Get milk, eggs, and bread",
+    "status": "pending"
+  },
+  {
+    "id": "5cbffd6d-d834-475e-96b8-bff532b02707",
+    "title": "Buy electronics",
+    "description": "Get Mobile, Television and Laptop",
+    "status": "pending"
+  },
+  {
+    "id": "42b89e0c-d264-4056-b5b1-50285de99930",
+    "title": "Buy kitchen item",
+    "description": "Get Plates, Mixer and Spoons",
+    "status": "pending"
+  },
+  {
+    "id": "10f6f000-2dec-442e-acbc-a5c10c3b550c",
+    "title": "Buy cosmetics",
+    "description": "Get lipstick, eyeliner and hair dryer",
+    "status": "completed"
+  },
+  {
+    "id": "3f7ac8e5-83ad-4230-9c2c-1d2ff12d5c9e",
+    "title": "Buy house-decor",
+    "description": "Get curtains, wallpaper and painting",
+    "status": "pending"
+  },
+  {
+    "id": "70b1fe2b-803a-48af-8085-63af35d67054",
+    "title": "Buy essentials",
+    "description": "Get bottles, boxes and papers",
+    "status": "pending"
+  }
+]
